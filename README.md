@@ -1,4 +1,4 @@
-![](https://leetcard.lelyuyu.cool/lelyuyucool?ext=activity)
+![Leetcode Stats](https://leetcard.lelyuyu.cool/lelyuyucool?ext=activity)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
